@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masala Chai</title>
+</head>
+
+<body>
+    <h1>Masala Chai</h1>
+    <p>Masala Chai is a traditional Indian tea made with a blend of spices.</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Tea Type</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ginger Tea</td>
+                <td>Cardamom Tea</td>
+                <td>1000</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>Cinnamon Tea</td>
+                <td>Mint Tea</td>
+                <td>2000</td>
+            </tr>
+        </tbody>
+    </table>
+    <h2>Tea Menu</h2>
+    <table>
+        <thead>
+            <tr>
+                <th rowspan="2">Tea Type</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="1">Ginger Tea</td>
+                <td>Cardamom Tea</td>
+                <td>1000</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>Cinnamon Tea</td>
+                <td>Mint Tea</td>
+                <td>2000</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
