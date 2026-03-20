@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Demp</title>
+</head>
+
+<body>
+    <h1>Form</h1>
+    <form action="/tacos">
+        <br>
+        <label for="username">Enter your name</label>
+        <input id="username" type="text" placeholder="enter your name">
+        </br>
+        <br>
+        <label for="password">Enter your password</label>
+        <input id="password" type="pass" placeholder="enter you pass" name="user">
+        <br>
+        <label for="menu">Enter your menu</label>
+        <input id="menu" type="menut">
+        <br>
+        <label for="color">Enter your color</label>
+        <input id="color" type="color">
+        <br>
+        <label for="text">Enter your text</label>
+        <input id="text" type="text">
+        <br>
+        <label for="month">Enter your month</label>
+        <input id="month" type="month">
+        <br>
+        <label for="week">Enter your week</label>
+        <input id="week" type="week">
+        <button>Submit</button>
+        <input type="submit">
+        
+    </form>
+</body>
+
+</html>
