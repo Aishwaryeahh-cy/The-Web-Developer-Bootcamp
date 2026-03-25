@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aishi Streeti</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <script src="script.js"></script>
+    <div class="container">
+        <div class="centered-div">
+            <h1 class="heading">Aishi Streeti</h1>
+        </div>
+        <h2 class="new">Tagline: Taste the Streets of India</h2>
+        <div class="body">
+            <p class="new1">We bring the real taste of Indian streets to your plate.
+                Fresh, hygienic, and full of flavor.</p>
+
+            <div>
+                <nav class="navbar">
+                    <a href="#">Home</a>
+                    <a href="#">Menu</a>
+                    <a href="#">Contact</a>
+                </nav>
+
+            </div>
+
+        </div>
+        <p class="new2">
+            Welcome to Aishi Streeti
+            Explore Authentic Indian Street Food
+            <button>View Menu</button>
+        </p>
+        <h3 class="text">1.Indian Street Foods</h3>
+        <a class="app"><img
+                src="https://tse2.mm.bing.net/th/id/OIP.Lv8HGQIuFiYjDK70T5skNQHaD4?rs=1&pid=ImgDetMain&o=7&rm=3"
+                alt="100px"></a>
+        <ol class="hi">
+            <li>Pani Puri
+                <ul>
+                    <li>Spicy</li>
+                    <li>Tangy</li>
+                    <li>Crunchy</li>
+                </ul>
+            </li>
+            <li>Pav Bhaji</li>
+        </ol>
+        <h3 class="text1">2. Masala Chai</h3>
+        <a><img src="https://happyspicyhour.com/wp-content/uploads/2023/02/Chai-tea-768x1024.jpeg" alt="100px"
+                width="250"></a>
+        <ol class="hi">
+            <li>Ginger Chai</li>
+            <li>Elaichi Chai</li>
+        </ol>
+        <h3 class="text2">3. Fried Foods</h3>
+        <a><img src="https://www.thedailymeal.com/img/gallery/29-deep-fried-foods-you-need-to-try-before-you-die/pakora-1668188466.jpg"
+                alt="100px" width="500"></a>
+        <ol class="hi">
+            <li>Samosa</li>
+            <li>Pakoda</li>
+        </ol>
+        <h3 class="text3">4. Desserts</h3>
+        <a><img src="https://tse2.mm.bing.net/th/id/OIP.qacdcri95R0_CR0FFMjpfQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+                alt="100px" width="400"></a>
+        <ol class="hi">
+            <li>Gulab Jamun</li>
+            <li>Jalebi</li>
+        </ol>
+        <p class="odd">IF ANY QUERIES USE THIS FORM TO MAIL US BACK</p>
+        <form>
+            <label>Name</label>
+            <input type="text" placeholder="Name"><br>
+            <label>Email</label>
+            <input type="email" placeholder="Email"><br>
+            <button>Submit</button>
+        </form>
+    </div>
+</body>
+
+
+
+
+</html>
